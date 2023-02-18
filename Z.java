@@ -1,5 +1,5 @@
 class Z{
-    if(false){
+    if(true){
 
     }
 }
